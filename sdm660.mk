@@ -446,4 +446,8 @@ PRODUCT_BOOT_JARS += \
 
 # XiaomiParts
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
     XiaomiParts
+=======
+   XiaomiParts
+>>>>>>> bfcc56f8 (sdm660-common: XiaomiParts: Migrate to androidx)
